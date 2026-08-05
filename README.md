@@ -1,4 +1,4 @@
-# 🎫 Sistema de Venda de Ingressos
+# 🎫 Ticket sales platform with PHP, Python, RabbitMQ, MySQL, Docker and asynchronous processing.
 
 ## 📝 Descrição
 
